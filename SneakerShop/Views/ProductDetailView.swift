@@ -21,11 +21,13 @@ struct ProductDetailView: View {
                                 .resizable()
                                 .cornerRadius(20)
                                 .scaledToFit()
+                                .padding(.horizontal, 15)
                         }
                             
                         Text(product.info)
-                            .font(.title2)
+                            .font(.body)
                             .padding(.horizontal, 15)
+                            .padding(.vertical, 10)
                         Spacer()
                         
                         if cartManager.products.contains(where: {$0.id == product.id

@@ -58,7 +58,7 @@ var productList = [
         info: "The being formerly known as “Kanye West” had a lot to write about adidas over the weekend. And while the future of the adidas Yeezy empire is uncertain, what’s known is that the Yeezy Boost 350 v2 has been prepped in an “MX Grey” style ahead of Fall 2022."
     ),
     Product(
-        name: "Nike Air Force 1 Black",
+        name: "Black Air Force 1",
         image: "image-7",
         price: 109,
         info: "The Nike Air Force 1 '07 LV8 Utility Men's Shoe adds overt branding to the hoops-inspired performance features of the 1982 original for an irreverent take on an icon."

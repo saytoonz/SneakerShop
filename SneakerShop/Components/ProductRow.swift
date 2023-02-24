@@ -23,7 +23,7 @@ struct ProductRow: View {
                 Text(product.name)
                     .bold()
 
-                Text("$\(product.price)")
+                Text("GHS \(product.price)")
             }
             
             Spacer()
